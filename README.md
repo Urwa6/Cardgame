@@ -1,1 +1,2 @@
-# Cardgame![Uploading kortSpel.jpg…]()
+# Cardgame
+![Skiss](kortSpel.jpg)
